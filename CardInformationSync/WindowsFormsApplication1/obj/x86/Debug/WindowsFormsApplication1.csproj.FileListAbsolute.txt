@@ -1,0 +1,17 @@
+C:\Users\sonne\documents\visual studio 2010\Projects\CardInformationSync\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\sonne\documents\visual studio 2010\Projects\CardInformationSync\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\sonne\documents\visual studio 2010\Projects\CardInformationSync\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\sonne\documents\visual studio 2010\Projects\CardInformationSync\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\sonne\documents\visual studio 2010\Projects\CardInformationSync\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\sonne\documents\visual studio 2010\Projects\CardInformationSync\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\sonne\documents\visual studio 2010\Projects\CardInformationSync\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\sonne\Desktop\CardInformationSync\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\sonne\Desktop\CardInformationSync\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\sonne\Desktop\CardInformationSync\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\sonne\Desktop\CardInformationSync\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\sonne\Desktop\CardInformationSync\WindowsFormsApplication1\bin\Debug\log4net.dll
+C:\Users\sonne\Desktop\CardInformationSync\WindowsFormsApplication1\bin\Debug\log4net.xml
+C:\Users\sonne\Desktop\CardInformationSync\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\sonne\Desktop\CardInformationSync\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\sonne\Desktop\CardInformationSync\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\sonne\Desktop\CardInformationSync\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

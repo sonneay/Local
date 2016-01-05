@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DbIp>127.0.0.1</DbIp>
+  <DbName>sa</DbName>
+  <DbUsername>ykt</DbUsername>
+  <DbPassWord>123456</DbPassWord>
+  <SyncTime>10</SyncTime>
+  <SyncPassword>3c7715fa-3fef-43ff-a5a4-337ec38bff1e</SyncPassword>
+</Config>
